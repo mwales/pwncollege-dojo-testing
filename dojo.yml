@@ -6,6 +6,6 @@ award:
 image: pwncollege/challenge-simple
 modules:
   - id: hello
-  - id: first_module
+  - id: firstmodule
   - id: world
   - id: demo
