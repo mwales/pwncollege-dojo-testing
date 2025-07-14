@@ -1,3 +1,6 @@
+#!/usr/bin/exec-suid -- /usr/bin/env python3
+
+# Simple shebang line doesn't work for pwn college
 #!/usr/bin/env python3
 
 def encode_string(text, seedVal):
