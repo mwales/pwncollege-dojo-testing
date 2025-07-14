@@ -1,10 +1,11 @@
-id: example
-name: Example Dojo
-type: example
+id: wildcat-csclub-test
+name: Wildcat CS Club (Test Dojo)
+type: test_wip
 award:
   emoji: 😀
 image: pwncollege/challenge-simple
 modules:
   - id: hello
+  - id: first_module
   - id: world
   - id: demo
