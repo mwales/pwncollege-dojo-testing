@@ -58,7 +58,7 @@ def main():
 	if (user_answer_encode == user_answer_encode_compare):
 		print("Great job!")
 
-		ff = open("/flag.txt","r")
+		ff = open("/flag","r")
 		flag = ff.read()
 		ff.close()
 

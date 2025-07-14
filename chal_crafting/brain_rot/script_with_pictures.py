@@ -62,7 +62,7 @@ def main():
 		print(base64.b64decode(ld).decode('utf-8'))
 		print("Great job!")
 
-		ff = open("/flag.txt","r")
+		ff = open("/flag","r")
 		flag = ff.read()
 		ff.close()
 
