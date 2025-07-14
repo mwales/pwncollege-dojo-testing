@@ -1,6 +1,6 @@
 id: wildcat-csclub-test
 name: Wildcat CS Club (Test Dojo)
-type: test_wip
+type: test
 award:
   emoji: 😀
 image: pwncollege/challenge-simple
