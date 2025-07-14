@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-print("#!/usr/bin/env python3")
+print("#!/usr/bin/exec-suid -- /usr/bin/env python3")
 print("import base64")
 print("x=\"\"\"")
 
