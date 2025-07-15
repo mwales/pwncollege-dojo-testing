@@ -1,4 +1,5 @@
 name: First Westshore Wildcat Module
+allow_privileged: true
 challenges:
   - id: brainrot
     name: brainrot
