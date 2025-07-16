@@ -3,7 +3,7 @@ name: Wildcat CS Club (Test Dojo)
 type: test
 award:
   emoji: 😀
-image: pwncollege/challenge-simple
+image: pwncollege/challenge-legacy:latest
 modules:
   - id: hello
   - id: firstmodule
