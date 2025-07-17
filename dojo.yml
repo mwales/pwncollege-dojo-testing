@@ -9,3 +9,4 @@ modules:
   - id: firstmodule
   - id: world
   - id: demo
+  - id: prng

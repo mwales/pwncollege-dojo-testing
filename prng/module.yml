@@ -1,0 +1,11 @@
+name: Pseudo Random Number Generators (PRNG)
+allow_privileged: false
+challenges:
+- id: theprequels
+  name: The Prequels
+- id: theogtrilogy
+  name: The Original Trilogy
+resources:
+  - name: Psedo Random Number Generators
+    video: Ks1pw1X22y4
+    slides: 2PACX-1vRBddm45HYAMlYMRxEh9tlKYKxtpNx0Neh1CbIugTQ5udcC3ABpR3ii3se-YhoGtrAJlhKVody5ygSp
