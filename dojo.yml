@@ -4,7 +4,7 @@ type: test
 award:
   emoji: 🐱
 #image: pwncollege/challenge-legacy:latest
-image: mwales/pwncollege_test:latest
+image: mwales/pwncollege_test:beta01
 modules:
   - id: hello
   - id: firstmodule
